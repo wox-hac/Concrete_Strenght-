@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 st.set_page_config(page_title="Concrete Strength AI", page_icon="🏗️", layout="wide")
 
-st.title("🏗️ AI-Based Concrete Compressive Strength Predictor")
+st.title("🏗️ Concrete Compressive Strength Prediction and Mix Analysis")
 st.write(
     "A student machine-learning demonstration that estimates concrete compressive "
     "strength from mix ingredients and curing age."
